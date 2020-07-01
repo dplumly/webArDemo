@@ -16,4 +16,18 @@ h5 { font-size: .83em; 	}
 h6 { font-size: .75em; 	}
 p  { font-size: .75em; 	}
 
+body {
+    background-color: #000;
+}
 
+#hiro {
+    margin: 50px auto;
+    display: table;
+}
+
+#qr-code {
+    height: 150px;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
